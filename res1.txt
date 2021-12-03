@@ -1,0 +1,6 @@
+USER=liza
+HOME=/home/liza
+LOGNAME=liza
+USERNAME=liza
+SESSION_MANAGER=local/liza-VirtualBox:@/tmp/.ICE-unix/1695,unix/liza-VirtualBox:/tmp/.ICE-unix/1695
+PWD=/home/liza
